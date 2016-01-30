@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (F:\WormProject\libtins\WpdPack\WpdPack\Examples-pcap\\Debug\x86\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendpack.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : 命令列 warning D9028: 最少重建失敗，還原成一般建置
+  iflist.c
+f:\wormproject\libtins\wpdpack\wpdpack\examples-pcap\iflist\iflist.c : fatal error C1041: 無法開啟程式資料庫 'f:\wormproject\libtins\wpdpack\wpdpack\examples-pcap\debug\x86\vc120.pdb'; 如果要將多個 CL.EXE 寫到同一個 .PDB 檔案，請使用 /FS
